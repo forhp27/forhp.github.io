@@ -1,35 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>About Me</title>
-<style>
-    body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            line-height: 1.6;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        .main-info {
-            background: #333;
-            color: #fff;
-            padding: 20px;
-        }
-        .main-info h1 {
-            margin: 0;
-        }
-        .hobbies, .career, .course {
-            background: #e7e7e7;
-            padding: 15px;
-            margin-bottom: 10px;
-        }
-</style>
+
 </head>
-    
-    
+
+
 <body>
     <div class="container">
         <header class="main-info">
