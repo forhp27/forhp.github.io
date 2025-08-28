@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>About Me</title>
 <style>
     body {
             font-family: Arial, sans-serif;
@@ -29,7 +30,6 @@
 </head>
     
 <body>
-    <title>About Me</title>
     <div class="container">
         <header class="main-info">
             <h1>Your Name: Diego Velasco</h1>
