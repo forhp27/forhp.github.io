@@ -24,6 +24,8 @@
             <h2>Fun Fact</h2>
             <p>i have another website :3 <a href="https://forhp.neocities.org/">https://forhp.neocities.org/ </a></p>
     </section>
+    <br>
+    <p> last updated 8/28/2025 </p>
 </div>
 </body>
 </html>
