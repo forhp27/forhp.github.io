@@ -2,8 +2,8 @@
 <html>
 <head>
     
-    <style>
-        body {
+<style>
+    body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
             line-height: 1.6;
@@ -26,7 +26,7 @@
             padding: 15px;
             margin-bottom: 10px;
         }
-    </style>
+</style>
 </head>
     
 <body>
