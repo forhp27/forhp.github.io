@@ -28,38 +28,38 @@
         }
     </style>
 </head>
+    
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
-            <p>Preferred Name: [Your Preferred Name]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <h1>Your Name: Diego Velasco</h1>
+            <p>Preferred Name: Diego !!</p>
         </header>
 
-        <section class="career">
+<section class="career">
             <h2>Job Responsibilities</h2>
             <p>[Summary of your current or most recent job responsibilities]</p>
         </section>
 
-        <section class="hobbies">
+<section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
             <p>[Your hobbies or special interests]</p>
         </section>
 
-        <section class="career">
+<section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
             <p>[Your reasons for pursuing the degree]</p>
         </section>
 
-        <section class="course">
+<section class="course">
             <h2>Reasons for Taking This Course</h2>
             <p>[Your reasons for taking this course]</p>
         </section>
 
-        <section class="fun-fact">
+<section class="fun-fact">
             <h2>Fun Fact</h2>
             <p>[A fun fact about yourself]</p>
-        </section>
-    </div>
+    </section>
+</div>
 </body>
 </html>
