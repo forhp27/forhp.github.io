@@ -36,29 +36,19 @@
             <p>Preferred Name: Diego !!</p>
         </header>
 
-<section class="career">
-            <h2>Job Responsibilities</h2>
-            <p>[Summary of your current or most recent job responsibilities]</p>
-        </section>
-
 <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Your hobbies or special interests]</p>
+            <p>Video games, Listening to Music, Rollerblading, House plants!</p>
         </section>
 
 <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing the degree]</p>
-        </section>
-
-<section class="course">
-            <h2>Reasons for Taking This Course</h2>
-            <p>[Your reasons for taking this course]</p>
+            <p>I believe tech is fun and incredibly useful to do stuff!</p>
         </section>
 
 <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[A fun fact about yourself]</p>
+            <p>i have another website :3 <a href="https://forhp.neocities.org/">https://forhp.neocities.org/ </a></p>
     </section>
 </div>
 </body>
